@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 /// <summary>
 /// this is class Inventory.
 /// </summary>
-public class Inventory
+public class OOP
 {
     /// <summary>
     /// Method that convert the text file to .net object
